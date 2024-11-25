@@ -1,114 +1,95 @@
 Emerging Technologies Research Papers
+📚 Overview
+Two comprehensive literature reviews exploring emerging technologies through different lenses:
 
-Author: Ba Viet Anh (Henry) Nguyen
+How unstructured data is being utilized in the emerging technologies: blockchain, AI and chatbot
+How database management systems are used in the emerging technologies: blockchain, AI and chatbot
 
-Repository Contents
-This repository contains two comprehensive literature review papers focusing on emerging technologies:
+📖 Papers Included
+1. Unstructured Data in Emerging Tech
+Analysis of how unstructured data is being leveraged in:
 
-Unstructured Data in Emerging Technologies
-
-Explores the use of unstructured data in Blockchain, AI, and Chatbots
-Examines how these technologies leverage various types of unstructured data
-Discusses challenges and opportunities in handling unstructured data
-
-
-Database Management Systems in Emerging Technologies
-
-Investigates how DBMS supports Blockchain, AI, and Chatbots
-Analyzes integration challenges and solutions
-Presents real-world applications and case studies
-
-
-
-Research Overview
-Common Themes
-Both papers examine three key emerging technologies:
-
-Blockchain
-Artificial Intelligence (AI)
+Blockchain systems
+Artificial Intelligence
 Chatbots
 
-Key Findings
+2. DBMS in Emerging Tech
+Investigation of database management systems' role in supporting:
+
+Blockchain implementations
+AI systems
+Chatbot architectures
+
+🔍 Key Research Findings
 Unstructured Data Research
 
-Blockchain:
+Blockchain
 
-Utilizes unstructured data for healthcare records management
-MedShare framework demonstrates secure sharing of medical data
-Focuses on data security and privacy
-
-
-Artificial Intelligence:
-
-Leverages unstructured data for NLP, computer vision, and audio processing
-Notable implementations include BERT, ImageNet, and Deep Speech
-Addresses ethical concerns and privacy considerations
+Healthcare records management via MedShare
+Security and privacy implementations
+Immutable data storage solutions
 
 
-Chatbots:
+AI
 
-Evolution from pattern matching to advanced language models
-Utilizes vast amounts of conversational data
-Highlights developments from ELIZA to modern transformer models
+NLP advancements (BERT)
+Computer vision progress (ImageNet)
+Audio processing (Deep Speech)
+
+
+Chatbots
+
+Evolution of language models
+Modern transformer architectures
+Conversational data utilization
 
 
 
 DBMS Research
 
-Blockchain:
+Blockchain
 
-Addresses scalability and storage challenges
-Implements hybrid architectures for efficient data management
-Examples include JP Morgan's Quorum platform
-
-
-Artificial Intelligence:
-
-Focuses on data processing and storage solutions
-Highlights integration with platforms like Amazon Redshift and SageMaker
-Addresses challenges in handling unstructured data
+Scalable storage solutions
+Hybrid architectures (e.g., JP Morgan's Quorum)
+Transaction management
 
 
-Chatbots:
+AI
 
-Emphasizes conversational data management
-Discusses real-time processing requirements
-Features IBM Watson as a case study
+Integration with cloud platforms
+Data processing optimizations
+Real-time analysis capabilities
+
+
+Chatbots
+
+Conversation management
+Real-time processing
+Case study: IBM Watson
 
 
 
-Research Methodology
-Both papers primarily rely on:
+🛠 Research Methodology
+Research based on:
 
-Peer-reviewed research papers
+Peer-reviewed papers
 Technical documentation
-Case studies
-Industry implementations
+Industry case studies
+Real-world implementations
 
-Key Contributions
-Unstructured Data Paper
+🎯 Future Directions
 
-Comprehensive analysis of unstructured data utilization
-Evaluation of technological implementations
-Discussion of privacy and ethical considerations
+Technology integration advancements
+Enhanced security measures
+Scalability solutions
+Performance improvements
+Ethical frameworks
 
-DBMS Paper
-
-Analysis of database integration challenges
-Examination of real-world applications
-Investigation of scalability solutions
-
-Future Research Directions
-
-Integration of emerging technologies
-Enhanced privacy and security measures
-Scalability improvements
-Performance optimization
-Ethical considerations in data handling
-
-Citations and References
-Both papers include extensive references to academic sources, technical papers, and industry documentation. Please refer to the individual papers for complete citation lists.
-Usage Rights
-Please contact the author for information regarding usage rights and permissions.
-Contact Information
-Author: Ba Viet Anh (Henry) Nguyen
+📚 References
+Full citations available in each paper.
+⚖️ License
+Contact the author for usage rights and permissions.
+✍️ Author
+Ba Viet Anh (Henry) Nguyen
+📧 Contact
+Feel free to reach out for any questions or discussions about the research.
